@@ -6,7 +6,7 @@ np.random.seed(1)   # Save random generation
 random.seed(1)
 
 
-f = open('/Users/tonix/Desktop/files/reviews.txt')    # Open file
+f = open('path.../ reviews.txt')    # Open file
 raw_reviews = f.readlines()
 f.close()
 
