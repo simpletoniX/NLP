@@ -46,8 +46,6 @@ for sent in tokens:
 
 concatenated = np.array(concatenated)
 
-
-
 # >>> Data for training
 
 random.shuffle(input_dataset)
